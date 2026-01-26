@@ -4,7 +4,7 @@
 I'm a junior developer with a passion for building web applications using different languages including React, PostgreSql and others. I'm constantly learning and exploring new front-end and back-end technologies to enhance my skills and contribute to exciting projects.
 
 ## 🛠️ Technologies & Tools
-- **Frontend:** React, JavaScript, HTML, CSS, PostgreSql, Node JS
+- **Frontend:** React, JavaScript, HTML, CSS, PostgreSql, Node JS, Java
 - **Tools:** Github, toggl, figma, trello, notion
 
 ## 🌱 Currently Learning
