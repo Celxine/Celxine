@@ -1,58 +1,45 @@
 # 👋 Hi, I'm Celine Ingabire!
 
 ## 🚀 About Me
-I'm a junior developer and software testing enthusiast passionate about building reliable web applications and ensuring quality through comprehensive testing. With a background in business management and hands-on experience in full-stack development, I love combining technical skills with problem-solving to create innovative solutions. Currently exploring the intersection of development and quality assurance!
+I'm a Quality Assurance Engineer and Real-Time 3D Developer with a unique blend of technical precision and creative problem-solving. With an ISTQB® CTFL certification and a BA in Business Management (Logistics & Operations), I build reliable, heavily tested applications while also exploring the interactive world of 3D engineering and game development. Whether I'm configuring CI/CD pipelines for automated testing or building AI behaviors in Unreal Engine 5, I am passionate about creating seamless, high-quality user experiences.
 
 ## 🛠️ Technologies & Tools
 
-### Frontend
-- React, JavaScript, HTML, CSS, Tailwind CSS
-- Figma (UX/UI Design)
+### 🔍 Testing & Quality Assurance
+- **Frameworks & Tools:** Selenium WebDriver, Playwright (Java), Cucumber (BDD), TestNG, JUnit, Rest Assured, Postman, Newman
+- **Methodologies:** Manual & Automated Testing, API Testing
+- **Bug Reporting & Tracking:** Jira Xray
 
-### Backend & Database
-- Node.js, Java
-- PostgreSQL
+### 🎮 3D Creation & Real-Time Engineering
+- **Engines:** Unreal Engine 5 (Blueprints, custom event graphs, AI navigation), Godot Engine (GDScript)
+- **Design & Texturing:** Blender, Adobe Substance 3D Painter
 
-### Testing & Quality Assurance
-- Manual Testing
-- Selenium WebDriver
-- Cucumber (BDD)
-- Bug Reporting & Tracking: Jira, Xray, Excel
+### 💻 Development & CI/CD
+- **Languages:** Java, JavaScript, Node.js
+- **Frontend:** React, HTML, CSS, Tailwind CSS
+- **CI/CD & Version Control:** Azure DevOps YAML, Jenkins, Maven, Git, GitHub
+- **Databases:** PostgreSQL
 
-### Tools & Workflow
-- Version Control: Git, GitHub
-- Project Management: Trello, Jira, Kanban, Notion
-- Time Tracking: Toggl
-- Documentation: Google Docs, PowerPoint, Google Sheets, Canva
+### 🗂️ Project Management & Design
+- Figma, Notion, Monday.com, Canva, Homestyler
 
-## 🌱 Currently Learning
-- Behavior-Driven Development (BDD) with Cucumber
-- Advanced software testing methodologies and automation
-- Quality assurance best practices with Jira and Xray
+## 🚀 Currently Building
+- Developing advanced 3D game mechanics, AI navigation, and interactive environment systems in Unreal Engine 5.
 
-## 💼 Experience Highlights
-- **Coach at The Gym Rwanda** - Mentoring trainees in software development practices and problem-solving
-- **Software Testing Trainee** - Performed manual testing, documented defects, and validated website functionality
-- **Capstone project & Hackathons** - Built projects including a Student Management System, EvolvEd (AI-powered learning platform), and ProLink (TVET employment platform)
+## 💼 Experience & Milestones
+- **BA in Business Management (Logistics & Operations)** - SNHU via Kepler (Graduating November 2026!), capping off with a quantitative research report on AGL in Rwanda.
+- **Real-Time 3D Engineering Trainee** @ *MaibornWolff, Ojemba, & The Gym Rwanda* - Developing interactive environment systems, game mechanics, and AI behaviors.
+- **Non-Technical Trainee Coach & Evaluator** @ *The Gym Rwanda* - Mentoring trainees, conducting performance feedback sessions, reviewing resumes, and evaluating communication competencies.
+- **ISTQB® Certified Tester (CTFL)** - Officially certified in software testing fundamentals and best practices.
 
 ## 📫 How to Reach Me
 - **Email:** ingabireceline54@gmail.com
 - **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/celine-ingabire-234521220/)
 - **GitHub:** You're already here! 😄
-- **Discord:** celxiiine <!-- Add your Discord username -->
+- **Discord:** celxiiine 
 
 ## 😄 Pronouns
 She/Her
 
 ## ⚡ Fun Fact
-I'm fascinated by psychology thrillers - whether it's books or documentaries, I love diving into the complex world of human behavior and mystery!
-
-## 🎯 My Strengths
-- Effective Communication
-- Collaboration & Teamwork
-- Problem-Solving
-- Time Management
-
----
-
-💡 *Always open to collaborating on interesting projects and learning opportunities!*
+I'm fascinated by true crime, psychology thrillers, and understanding human behavior. When I'm not configuring pipelines or building in 3D, I'm writing prose and poetry anonymously on Substack!
